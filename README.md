@@ -60,6 +60,7 @@ An attempt to list out some super-useful but not-so-popular websites that offer 
 - [3D Bay](https://clouddevs.com/3dbay/) - FREE 3D images
 - [Decay Textures](https://github.com/darriagada/Decay-Textures) - FREE Grunge Textures
 - [3dicons](https://3dicons.co/) - FREE 3D Icons
+- [Woopicx](https://woopicx.com/collection/basic3d) - FREE AI-Generated 3D Icons
 
 ## FREE Vectors 🎨
 - [Open Peeps](https://www.openpeeps.com/) - FREE Hand-drawn Vector Library
