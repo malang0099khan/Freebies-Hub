@@ -154,6 +154,9 @@ An attempt to list out some super-useful but not-so-popular websites that offer 
 - [usemodify](https://usemodify.com/)
 - [Free Faces](https://www.freefaces.gallery/)
 
+## FREE Printables 🖨️
+- [Huebloom](https://huebloom.art/)
+
 ### Credits 😍
 List of users who suggested new websites:
 - [@bestinjac](https://github.com/bestinjac)
