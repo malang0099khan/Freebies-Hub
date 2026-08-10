@@ -7,6 +7,7 @@ An attempt to list out some super-useful but not-so-popular websites that offer 
 📌 ***Sometimes attributions are required. So make sure to check the license terms before using the items.***
 
 ## Multiple Freebies 🌐
+- [AiPixelBoost](https://aipixelboost.vercel.app/) - Transform blurry,low-quality photos into sharp, high-resolution images with AIPixelBoost.
 - [Mixkit](https://mixkit.co/) - FREE Images, Videos, Templates & Music
 - [Pikwizard](https://pikwizard.com/) - FREE Images & Videos
 - [FOCA](https://focastock.com/) - FREE Images, Videos & Templates
